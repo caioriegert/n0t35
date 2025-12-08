@@ -97,31 +97,6 @@ Funcionalidades Principais
 <img width="1019" height="807" alt="Screenshot 2025-11-07 at 00 50 28" src="https://github.com/user-attachments/assets/3238d556-dafe-4fc2-99fa-680d4f39fbd7" />
 
 ## 📁 Estrutura do Projeto
-textn0t3s/
-├── app/
-│   ├── controllers/
-│   │   ├── AuthController.php  # Lógica de autenticação e conta
-│   │   └── NoteController.php  # CRUD de notas e uploads
-│   ├── models/
-│   │   ├── user.php           # Model para usuários
-│   │   └── note.php           # Model para notas
-│   └── views/
-│       ├── account.php        # Página de perfil
-│       ├── dashboard.php      # Lista de notas
-│       ├── login.php          # Formulário de login
-│       ├── note_form.php      # Form para criar/editar nota
-│       ├── note_view.php      # Visualização de nota
-│       ├── register.php       # Formulário de registro
-│       └── partials-dashboard/ # Partials reutilizáveis (header, footer, etc.)
-├── public/
-│   ├── index.php              # Ponto de entrada (autoload de routes)
-│   ├── .htaccess              # Regras de rewrite
-│   ├── style.css              # Estilos Matrix-like (adicione seu CSS aqui!)
-│   ├── test.php               # Teste rápido
-│   └── uploads/               # Pasta para imagens anexadas
-├── config.php                 # Configurações DB (ajuste aqui)
-├── routes.php                 # Roteador central
-├── test_connection.php        # Script para testar/criar DB
-├── LICENSE                    # Licença MIT
-└── README.md                  # Este arquivo!
+<img width="551" height="560" alt="image" src="https://github.com/user-attachments/assets/a8b8f189-2ab5-4e72-8e6b-9046915c7d2d" />
+
 
