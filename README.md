@@ -1,4 +1,4 @@
-# n0t35
+# n0t3s
 Programa de anotações que eu fiz inspirado na estética do filme "Matrix" / Monitores de fósforo
 
 Trabalho de faculdade feito com intuito de exercitar nossas habilidades de Design Patterns.
